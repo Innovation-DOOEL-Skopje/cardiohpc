@@ -10,7 +10,7 @@ parts:
     title: Serverless
 - caption: External resources
   chapters:
-  - url: https://github.com/dimitarmileski/CardioHPC
+  - url: https://github.com/Innovation-DOOEL-Skopje/cardiohpc
     title: Github Repo
   - url: http://cardiohpc.innovation.com.mk/
     title: CardioHPC

@@ -28,7 +28,7 @@ launch_buttons:
   thebe                     : true  
 
 repository:
-  url                       : https://github.com/dimitarmileski/CardioHPC
+  url                       : https://github.com/Innovation-DOOEL-Skopje/cardiohpc
   branch                    : main  
 
 parse:
