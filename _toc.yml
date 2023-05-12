@@ -1,0 +1,18 @@
+format: jb-book
+root: intro
+title: CardioHPC
+parts:
+- caption: Results
+  chapters:
+  - file: 01/hpc
+    title: HPC
+  - file: 02/serverless
+    title: Serverless
+- caption: External resources
+  chapters:
+  - url: https://github.com/dimitarmileski/CardioHPC
+    title: Github Repo
+  - url: http://cardiohpc.innovation.com.mk/
+    title: CardioHPC
+  - url: https://innovation.mk/
+    title: Innovation
