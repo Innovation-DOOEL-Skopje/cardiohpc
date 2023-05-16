@@ -2,6 +2,14 @@ format: jb-book
 root: intro
 title: CardioHPC
 parts:
+- caption: Methods
+  chapters:
+  - file: 03/architecture
+    title: System Architecture
+  - file: 03/experiments
+    title: Experiments
+  - file: 03/evaluation
+    title: Evaluation Methodology
 - caption: Results
   chapters:
   - file: 01/hpc
