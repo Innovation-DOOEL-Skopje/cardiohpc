@@ -1,7 +1,7 @@
 # Book settings
 title                       : "CardioHPC - Results"
 author                      : "Innovation Dooel"
-copyright                   : "2023"  
+copyright                   : "2025"  
 logo                        : images/logo.png  
 exclude_patterns            : [_build, Thumbs.db, .DS_Store, "**.ipynb_checkpoints"]
 
