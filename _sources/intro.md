@@ -11,10 +11,6 @@ On the left menu bar, the RESULTS section displays the outcomes of the CardioHPC
 
 FF4EuroHPC H2020 EU Project 951745 - Call 2 Experiment no.1112
 
-Project start: 01.03.2022
-
-Duration: 15 months
-
 
 ## Our consortium
 

@@ -1,5 +1,4 @@
 # Serverless Results
-***
 
 Cloud Provider - <a href="https://cloud.google.com/" target="_blank">Google Cloud</a>
 

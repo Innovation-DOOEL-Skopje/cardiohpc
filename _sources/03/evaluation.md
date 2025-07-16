@@ -1,5 +1,4 @@
 # Evaluation Methodology
-***
 
 - Response Times
     - Response Time Percentiles
